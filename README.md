@@ -16,7 +16,7 @@ Building at the intersection of fintech, real estate, and Web3. Currently shippi
 
 ### Day job
 
-**Fullstack Developer Intern @ Rock Encantech** — Building modules for Shop, a whitelabel e-commerce platform serving major supermarket chains and Banks. Working with event-driven architecture, RabbitMQ, and IaC.
+**Fullstack Developer Intern @ Rock Encantech** — Building modules for Viagens, a whitelabel e-commerce platform serving major supermarket chains and Banks. Working with event-driven architecture, RabbitMQ, and IaC.
 
 ### Tech I use
 
