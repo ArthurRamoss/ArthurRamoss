@@ -2,7 +2,7 @@
 
 **Fullstack Developer · Builder · CS Student @ SPTech (São Paulo)**
 
-Building at the intersection of fintech, real estate, and Web3. Currently shipping products at [Rock Encantech](https://rockencantech.com/) while developing side projects
+Building at the intersection of fintech, real estate, and Web3. Currently shipping products at [Rock Encantech](https://rockencantech.com/) while developing side projects.
 
 ---
 
@@ -10,13 +10,13 @@ Building at the intersection of fintech, real estate, and Web3. Currently shippi
 
 **🔍 STR Scout** — Short-term rental market intelligence tool (think unbundled AirDNA). MCP server with AI-powered synthesis, review velocity modeling for occupancy estimation, and Redis-cached data pipeline. *CTX Protocol Tier A Grant.*
 
-**📊 BidScout Intel** — MCP server for US federal contract intelligence via SAM.gov/USASpending.gov. Features incumbent detection with a recompete score (0-100). *CTX Protocol Tier S Grant — deployed on Railway.*
+**📊 BidScout Intel** — MCP server for US federal contract intelligence via SAM.gov/USASpending.gov. Features incumbent detection with a recompete score (0-100). *CTX Protocol Tier S Grant.*
 
-**📢 AdWinner** — Meta/TikTok ad intelligence MCP server. Per-query revenue model on the CTX Protocol marketplace.
+**📢 AdWinner** — Meta/TikTok ad intelligence MCP server. Per-query revenue model on the CTX Protocol marketplace. *CTX Protocol Tier S Grant.* 
 
 ### Day job
 
-**Fullstack Developer Intern @ Rock Encantech** — Building modules for Shop, a whitelabel e-commerce platform serving major supermarket chains (Banco Safra account). Working with event-driven architecture, RabbitMQ, and IaC.
+**Fullstack Developer Intern @ Rock Encantech** — Building modules for Shop, a whitelabel e-commerce platform serving major supermarket chains and Banks. Working with event-driven architecture, RabbitMQ, and IaC.
 
 ### Tech I use
 
@@ -27,16 +27,16 @@ Backend       Node.js · Express · NestJS · REST APIs
 Blockchain    Solana · Anchor · SPL Tokens · BRZ · Solana Pay
 Data          PostgreSQL · MongoDB · Redis · RabbitMQ
 Infra         Docker · Railway · AWS · GitHub Actions
-Tools         Git · LaTeX · Jupyter · Power BI
+Tools         Git · Jupyter · Power BI
 ```
 
-### Background
+### Academic projects
 
-I study Computer Science at SPTech (graduating 2027) and have shipped academic projects ranging from a logistics management system to a data analytics platform processing Brazilian Central Bank/PIX datasets, to an educational platform for [Gratitude Serviços](https://gratitudeservicos.com.br/) supporting land regularization across hundreds of Brazilian municipalities.
+The organizations on my profile are from group projects at SPTech — all repos are public. Projects include a logistics management system, a data analytics platform processing Brazilian Central Bank/PIX datasets, and an educational platform for [Gratitude Serviços](https://gratitudeservicos.com.br/) supporting land regularization across hundreds of Brazilian municipalities.
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurramosss) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurramosss)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arthuur.ramoss@gmail.com)
 
 ---
