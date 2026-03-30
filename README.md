@@ -2,7 +2,7 @@
 
 **Fullstack Developer · Builder · CS Student @ SPTech (São Paulo)**
 
-Building at the intersection of fintech, real estate, and Web3. Currently shipping products at [Rock Encantech](https://rockencantech.com.br/) while developing side projects.
+Building at the intersection of fintech, real estate, and Web3. Currently shipping products at [Rock Encantech](https://rockencantech.com.br) while developing side projects.
 
 ---
 
